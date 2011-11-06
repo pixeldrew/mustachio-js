@@ -1,0 +1,3 @@
+[submodule "vendor/face"]
+	path = vendor/face
+	url = https://github.com/talvarez/Face.js.git
